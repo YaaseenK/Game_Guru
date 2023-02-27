@@ -25,8 +25,4 @@ db.once('open', () => {
     })
 });
 
-<<<<<<< HEAD
 mongoose.set('useFindAndModify', false);
-=======
-mongoose.set('useFindAndModify', false)
->>>>>>> fa05064c3ea8649d0d0faac9a2fb3b7d66d01c1e
