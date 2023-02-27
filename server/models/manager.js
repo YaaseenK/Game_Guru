@@ -1,6 +1,6 @@
 const { Schema, model } = require('mongoose');
 
-const managerSchema = mongoose.Schema({
+const managerSchema = new Schema({
     firstName: {
         type: String, 
     },
