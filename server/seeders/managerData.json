@@ -1,0 +1,14 @@
+[
+    {
+        "firstName": "Big Man 1",
+        "lastName": "Max",
+        "gamerTag": "Williams",
+        "managerId": 2
+    },
+    {
+        "firstName": "Player 1",
+        "lastName": "Max",
+        "gamerTag": "Williams",
+        "managerId": 1 
+    }
+]
