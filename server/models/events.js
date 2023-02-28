@@ -1,6 +1,6 @@
 const { Schema, model } = require('mongoose');
 
-const eventsSchema = mongoose.Schema({
+const eventsSchema = new Schema({
     eventName: {
         type: String,
         default: 'Unnamed event',
